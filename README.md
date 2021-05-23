@@ -15,16 +15,15 @@
 <h4 align="left">
   Imagens de Minhas Tarefas.
 </h4>
-<a href="https://imgur.com/72PhXOM"><img src="https://i.imgur.com/72PhXOM.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/RcpnC45"><img src="https://i.imgur.com/RcpnC45.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/BEvdhkg"><img src="https://i.imgur.com/BEvdhkg.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/Ag5w2lE"><img src="https://i.imgur.com/Ag5w2lE.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/SprJxv9"><img src="https://i.imgur.com/SprJxv9.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/m6P1IMX"><img src="https://i.imgur.com/m6P1IMX.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/bywCaKd"><img src="https://i.imgur.com/bywCaKd.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/zDj5Dpk"><img src="https://i.imgur.com/zDj5Dpk.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/g6YnoK4"><img src="https://i.imgur.com/g6YnoK4.png" title="source: imgur.com" /></a>
-
+<a href="https://imgur.com/fseQYKq"><img src="https://i.imgur.com/fseQYKq.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/gaYQllo"><img src="https://i.imgur.com/gaYQllo.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XGmcJ2f"><img src="https://i.imgur.com/XGmcJ2f.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hoInFB2"><img src="https://i.imgur.com/hoInFB2.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/UPFJdMd"><img src="https://i.imgur.com/UPFJdMd.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7Y6bYf9"><img src="https://i.imgur.com/7Y6bYf9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jfqIXpW"><img src="https://i.imgur.com/jfqIXpW.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/3vZMnaS"><img src="https://i.imgur.com/3vZMnaS.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/pO6X4vh"><img src="https://i.imgur.com/pO6X4vh.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
