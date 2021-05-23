@@ -15,5 +15,8 @@
 }
 
 .nav_items img {
+   width: 30px;
+   height: 30px;
    margin: 0 0.8rem;
+   border-radius: 50%;
 }

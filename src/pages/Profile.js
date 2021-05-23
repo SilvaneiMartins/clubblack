@@ -55,7 +55,7 @@ export default function Profile() {
             </div>
 
             <div className={style.nominated}>
-               <img src="/images/silvanei.jpeg" alt="" />
+               <img src="/images/silvanei.png" alt="silvanei" />
                <div>
                   <p>Postado em 21-05-2021</p>
                   <p>

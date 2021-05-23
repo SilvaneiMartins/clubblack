@@ -16,8 +16,8 @@ export default function RoomInfoCard() {
 
                      <div className={style.roomMenbers}>
                         <div>
-                           <img src="/images/user-img.jpg" alt="user-img" />
-                           <img src="/images/user-img2.jpg" alt="user-img2" />
+                           <img src="/images/silvanei.jpeg" alt="silvanei" />
+                           <img src="/images/silvanei.png" alt="silvanei" />
                         </div>
                         <div>
                            {item.members.map((person) => (

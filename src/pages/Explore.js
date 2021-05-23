@@ -38,7 +38,7 @@ export default function Explore() {
             {people.map((item) => (
                <div>
                   <div className="d-flex align-items-center">
-                     <img src="/images/user-img.jpg" alt="" />
+                     <img src="/images/silvanei.png" alt="" />
                      <div className={style.peopleDescription}>
                         <h5>{item.title}</h5>
                         <p>{item.description}</p>

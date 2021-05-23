@@ -19,14 +19,15 @@
    color: #000000;
 }
 
-.roomMenbers img {
-   width: 45px;
-   height: 45px;
-   border-radius: 0.400rem;
-}
 .roomMenbers {
    display: flex;
    align-items: flex-start;
+}
+
+.roomMenbers > div > img {
+   width: 45px;
+   height: 45px;
+   border-radius: 0.400rem;
 }
 
 .roomMenbers p {

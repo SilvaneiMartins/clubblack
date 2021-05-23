@@ -34,7 +34,8 @@ export default function Home() {
                }}
             >
                <img
-                  src="/images/loader5.gif" alt=""
+                  src="/images/loader5.gif"
+                  alt=""
                   style={{
                      width: "150px",
                      height: "150px",

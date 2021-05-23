@@ -10,7 +10,7 @@ export default function Header() {
          </Link>
 
          <div className={style.nav_items}>
-            <Link exact to="/friends_invite" >
+            <Link exact to="/amigos" >
                <img src="/images/invite.png" alt="invite" />
             </Link>
 
@@ -18,12 +18,12 @@ export default function Header() {
                <img src="/images/calendar.png" alt="invite" />
             </Link>
 
-            <Link exact to="/activity" >
+            <Link exact to="/notifications" >
                <img src="/images/noti.png" alt="invite" />
             </Link>
 
             <Link exact to="/profile" >
-               <img src="/images/b1.png" alt="invite" />
+               <img src="/images/silvanei.jpeg  " alt="invite" />
             </Link>
          </div>
       </div>

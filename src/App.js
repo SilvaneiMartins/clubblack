@@ -6,8 +6,11 @@ import PhoneConfirmation from "./pages/PhoneConfirmation";
 import CodeConfirm from "./pages/CodeConfirm";
 import AllowNotification from "./pages/AllowNotification";
 import Home from "./pages/Home";
-import Explore from './pages/Explore';
-import Profile from './pages/Profile';
+import Explore from "./pages/Explore";
+import Profile from "./pages/Profile";
+import Notifications from "./pages/Notifications";
+import Amigos from "./pages/Amigos";
+import Upcoming from "./pages/Upcoming";
 
 import AppLayout from "./pages/Layouts/AppLayout";
 
@@ -39,12 +42,29 @@ function App() {
                </Switch>
             </PlanLayout>
          </Route>
-         <Route exact path={["/home", "/explore", "/profile"]}>
+         <Route
+            exact
+            path={[
+               "/home",
+               "/explore",
+               "/profile",
+               "/notifications",
+               "/amigos",
+               "/upcoming",
+            ]}
+         >
             <AppLayout>
                <Switch>
                   <Route exact path="/home" component={() => <Home />} />
                   <Route exact path="/explore" component={Explore} />
                   <Route exact path="/profile" component={Profile} />
+                  <Route
+                     exact
+                     path="/notifications"
+                     component={Notifications}
+                  />
+                  <Route exact path="/amigos" component={Amigos} />
+                  <Route exact path="/upcoming" component={Upcoming} />
                </Switch>
             </AppLayout>
          </Route>
