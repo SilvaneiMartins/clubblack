@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-  O app foi desenvolvido ao final de um modulo de estudo, adquirindo alguns conceito de responsividade mobile, tanto para android quanto para ios.
+  O app foi desenvolvido ao final de um modulo de estudo do curso tecnico em programação e desenvolvimento com a linguagem javascript, adquirindo alguns conceito de responsividade mobile, tanto para android quanto para ios.
 </h4>
 
 <p align="center">
