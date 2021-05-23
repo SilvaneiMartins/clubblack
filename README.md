@@ -39,7 +39,7 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 -  [Ant Design](https://ant.design/)
 -  [React Icons](https://react-icons.github.io/react-icons/)
 -  [React Phone Number Input](https://www.npmjs.com/package/react-phone-number-input)
--  [React Swipeable Bottom Sheet](hhttps://github.com/manufont/react-swipeable-bottom-sheet)
+-  [React Swipeable Bottom Sheet](https://github.com/manufont/react-swipeable-bottom-sheet)
 
 ## :information_source: Como usar
 
