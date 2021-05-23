@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 import style from "../../style/roomDetail.module.css";
 import { AiOutlineFile, AiOutlinePlus } from "react-icons/ai";
@@ -6,7 +7,7 @@ import { BsMicMuteFill, BsMicFill } from "react-icons/bs";
 
 export default function NewRoom(props) {
    const [micMuteVisible, setMicMuteVisible] = useState(false);
-   const [itemsVisible, setItemsVisible] = useState(true);
+   // const [itemsVisible, setItemsVisible] = useState(true);
    const card = props.cardDetail;
 
    return (
@@ -14,7 +15,7 @@ export default function NewRoom(props) {
          <div className={style.roomDetailContainer}>
             <div className={style.head}>
                <div className={"d-flex align-items-center"}>
-                  <a
+                  <Link
                      href="#"
                      onClick={() => {
                         props.setSheetVisible(false);
@@ -25,7 +26,7 @@ export default function NewRoom(props) {
                         alt=""
                         className={style.arrow_icon}
                      />
-                  </a>
+                  </Link>
                   <span>Silvanei Martins</span>
                </div>
                <div>
@@ -69,8 +70,7 @@ export default function NewRoom(props) {
                      props.setSheetVisible(false);
                   }}
                >
-                  <img src="/images/hand-peace.png" alt="" />{" "}
-                  Saia em silêncio
+                  <img src="/images/hand-peace.png" alt="" /> Saia em silêncio
                </button>
                <div>
                   <button>
@@ -79,9 +79,7 @@ export default function NewRoom(props) {
                   <button>
                      <img src="/images/stopHandIcon.png" alt="" />
                   </button>
-                  <button
-                     onClick={() => setMicMuteVisible(!micMuteVisible)}
-                  >
+                  <button onClick={() => setMicMuteVisible(!micMuteVisible)}>
                      {micMuteVisible ? <BsMicMuteFill /> : <BsMicFill />}
                   </button>
                </div>

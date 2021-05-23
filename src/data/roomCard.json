@@ -1,47 +1,93 @@
 [
   {
     "id": 1,
-    "title": "BOM TEMPO",
-    "sub_title": "Calvin Harris x Email Nava no Good Time Show",
+    "title": "UNIVERSIDADE",
+    "sub_title": "Grupo de audio com varios alunos da faculdade para estudo.",
     "members": [
       {
-        "first_name": "Sriram",
-        "last_name": "krishnan"
+        "first_name": "Silvanei",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Aarthi",
-        "last_name": "Ramamurthy"
+        "first_name": "Silvio",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Steven",
-        "last_name": "Sinofsky"
+        "first_name": "Edelson",
+        "last_name": "Gomes"
       },
       {
-        "first_name": "Paul",
-        "last_name": "Davison"
+        "first_name": "Elizabeth",
+        "last_name": "Magalhães"
       }
     ]
   },
   {
     "id": 2,
-    "title": "GOOD TIME",
-    "sub_title": "Calvin Harris x Email Nava on Good Time Show",
+    "title": "FUTEBOL",
+    "sub_title": "Grupo de audio destinado a pelada do final de semana.",
     "members": [
       {
-        "first_name": "Sriram",
-        "last_name": "krishnan"
+        "first_name": "Silvanei",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Aarthi",
-        "last_name": "Ramamurthy"
+        "first_name": "Silvio",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Steven",
-        "last_name": "Sinofsky"
+        "first_name": "Edelson",
+        "last_name": "Gomes"
       },
       {
-        "first_name": "Paul",
-        "last_name": "Davison"
+        "first_name": "Elizabeth",
+        "last_name": "Magalhães"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "PROGRAMAÇÂO",
+    "sub_title": "Grupo destinado ao desenvolvimento de futebol.",
+    "members": [
+      {
+        "first_name": "Silvanei",
+        "last_name": "Martins"
+      },
+      {
+        "first_name": "Silvio",
+        "last_name": "Martins"
+      },
+      {
+        "first_name": "Edelson",
+        "last_name": "Gomes"
+      },
+      {
+        "first_name": "Elizabeth",
+        "last_name": "Magalhães"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FAMÍLIA",
+    "sub_title": "Grupo destinado a família.",
+    "members": [
+      {
+        "first_name": "Silvanei",
+        "last_name": "Martins"
+      },
+      {
+        "first_name": "Silvio",
+        "last_name": "Martins"
+      },
+      {
+        "first_name": "Edelson",
+        "last_name": "Gomes"
+      },
+      {
+        "first_name": "Elizabeth",
+        "last_name": "Magalhães"
       }
     ]
   },
@@ -51,66 +97,20 @@
     "sub_title": "Calvin Harris x Email Nava on Good Time Show",
     "members": [
       {
-        "first_name": "Sriram",
-        "last_name": "krishnan"
+        "first_name": "Silvanei",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Aarthi",
-        "last_name": "Ramamurthy"
+        "first_name": "Silvio",
+        "last_name": "Martins"
       },
       {
-        "first_name": "Steven",
-        "last_name": "Sinofsky"
+        "first_name": "Edelson",
+        "last_name": "Gomes"
       },
       {
-        "first_name": "Paul",
-        "last_name": "Davison"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "GOOD TIME",
-    "sub_title": "Calvin Harris x Email Nava on Good Time Show",
-    "members": [
-      {
-        "first_name": "Sriram",
-        "last_name": "krishnan"
-      },
-      {
-        "first_name": "Aarthi",
-        "last_name": "Ramamurthy"
-      },
-      {
-        "first_name": "Steven",
-        "last_name": "Sinofsky"
-      },
-      {
-        "first_name": "Paul",
-        "last_name": "Davison"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "GOOD TIME",
-    "sub_title": "Calvin Harris x Email Nava on Good Time Show",
-    "members": [
-      {
-        "first_name": "Sriram",
-        "last_name": "krishnan"
-      },
-      {
-        "first_name": "Aarthi",
-        "last_name": "Ramamurthy"
-      },
-      {
-        "first_name": "Steven",
-        "last_name": "Sinofsky"
-      },
-      {
-        "first_name": "Paul",
-        "last_name": "Davison"
+        "first_name": "Elizabeth",
+        "last_name": "Magalhães"
       }
     ]
   }

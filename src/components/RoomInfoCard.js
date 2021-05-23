@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 import { BsChatDots, BsChatDotsFill, BsFillPersonFill } from "react-icons/bs";
 import style from "../style/roomCard.module.css";
